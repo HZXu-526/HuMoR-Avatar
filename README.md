@@ -129,6 +129,7 @@ We are grateful to the developers and contributors of these repositories for the
   title={Efficient neural implicit representation for 3D human reconstruction},
   author={Huang, Zexu and Erfani, Sarah Monazam and Lu, Siying and Gong, Mingming},
   journal={Pattern Recognition},
+  volume={156},
   pages={110758},
   year={2024},
   publisher={Elsevier}
